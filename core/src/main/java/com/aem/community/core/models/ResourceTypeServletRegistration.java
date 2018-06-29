@@ -29,7 +29,7 @@ import org.osgi.service.component.annotations.Component;
 //@SlingServlet(
 // methods = {"GET"},
 // metatype= true,
-// resourceTypes= {"boostmobile-shop/components/structure/pdp-page"},
+// resourceTypes= {"AEM63POCS/components/structure/page"},
 // selectors= {"one","two"})
 
 
